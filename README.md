@@ -1,0 +1,1 @@
+# How to scale a menu scan as a background image
